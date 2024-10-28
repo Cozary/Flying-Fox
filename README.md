@@ -1,4 +1,5 @@
 # Flying Fox
+***This mod will not continue to be updated.***
 
 Joke mod. There are foxes that can fly with their tails! Chickens and rabbits beware!
 
